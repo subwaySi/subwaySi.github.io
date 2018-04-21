@@ -1,2 +1,2 @@
 # subwaySi.github.io
-My website
+This is my first website for school
